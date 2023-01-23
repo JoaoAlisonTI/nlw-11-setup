@@ -1,7 +1,7 @@
 <h1 align="center"> Habits Tracker </h1>
 
 <p align="center">
-NLW é evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+NLW é evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB 🚀⚡. <br/>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ NLW é evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tec
   <img alt="projeto Habits Tracker" src=".github/preview.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## ⚙️👨‍💻 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -34,9 +34,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits Tracker é um app para ajudar a rastrear os hábitos. Selecione e faça a gestão dos seus hábitos diários no dia e crie um novo dia (com os mesmos hábitos) após concluí-lo.
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online ☁️](https://joaoalisonti.github.io/NLW-11--SETUP/)
 
-## 🔖 Layout
+## 🖼️ Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
@@ -46,4 +46,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+<strong>2023</strong>
