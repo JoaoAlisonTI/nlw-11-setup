@@ -28,3 +28,7 @@ const data = JSON.parse(localStorage.getItem("nlw11Setup@alison")) || {}
 
 nlwSetup.setData(data)
 nlwSetup.load()
+/*Próximo passo:
+- fazer com que selecione outros tipos de hábitos
+- Fazer com que adicione ou exclua o hábito
+*/

@@ -1,7 +1,7 @@
 <h1 align="center"> Habits Tracker </h1>
 
 <p align="center">
-NLW é evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB 🚀⚡. <br/>
+o Habits foi desenvolvido durante a NLW, um evento exclusivo e gratuito promovido pela Rocketseat para ensino de tecnologias WEB 🚀⚡. <br/>
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ O Habits Tracker é um app para ajudar a rastrear os hábitos. Selecione e faça
 
 ## 🖼️ Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/EF6QBjehuCRDFFNgHSpVzj/Habits-(e)-(Community)?t=ibvdpCnzOoksUhuu-6). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
