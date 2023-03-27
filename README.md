@@ -44,7 +44,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 Esse projeto está sob a licença MIT.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoAlisonTI&repo=NLW-11--SETUP&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
